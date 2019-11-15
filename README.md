@@ -1,2 +1,3 @@
 # Snake-Enemy
-This is a game
+Version:
+SnakeEnemy alpha 0.1
